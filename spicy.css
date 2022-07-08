@@ -1,0 +1,57 @@
+body{
+    background-color: #f8b195;
+}
+
+h1 {
+    font-size: 15px;
+    text-align: center;
+}
+
+h1 p{
+position: absolute;
+top: 0px;
+padding-left: 5px;
+
+}
+
+h1 a {
+    right: 100px;
+    float: right;
+    padding-left: 5px;
+    font-size: 15px;
+    margin-left: 15px ;
+    text-decoration: none;
+    color: black;
+    
+}
+
+
+.box {
+    width: auto;
+    height: 30px;
+    
+}
+.pinkbox {
+    background: #f67280;
+}
+#blueContainer {
+    display: block;
+
+
+  }
+  
+  .blue {
+    padding: 20px;
+    background-color: #355c7d;
+    margin-right: 10px;
+    margin-top: 10px;
+    float:left;
+    border: solid #6c5b7b;
+    
+  }
+  input[type=submit]{
+    width: 200px;
+    color: #6c5b7b;
+  }
+  .blue p { width: 250px;
+  }
